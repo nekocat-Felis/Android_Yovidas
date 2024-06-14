@@ -4,8 +4,8 @@ DOXYFILE_ENCODING = UTF-8
 PROJECT_NAME = Yovidas
 PROJECT_NUMBER = 
 # 入力ファイル関連.
-INPUT = ../../source
-USE_MDFILE_AS_MAINPAGE = ../README.md
+INPUT = ../../source ../
+USE_MDFILE_AS_MAINPAGE = README.md
 INPUT_ENCODING = UTF-8
 FILE_PATTERNS = *.c \
                 *.cpp \
