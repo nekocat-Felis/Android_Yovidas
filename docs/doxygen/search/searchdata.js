@@ -16,9 +16,9 @@ var indexSectionNames =
 
 var indexSectionLabels =
 {
-  0: "All",
-  1: "Files",
-  2: "Functions",
-  3: "Pages"
+  0: "全て",
+  1: "ファイル",
+  2: "関数",
+  3: "ページ"
 };
 
